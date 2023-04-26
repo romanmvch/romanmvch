@@ -22,7 +22,9 @@ Completed courses "Data Science.Bootcamp" (Yandex.Practicum) and  "Data Science"
 
 <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" height=25></a>
 <h2 align="center">
-<img src="https://avatars.mds.yandex.net/i?id=9abf606bc4c1494e135dcecb929d713f398973c9-7672861-images-thumbs&n=13" width="30%" >  </h2>
+
+<img src="https://github.com/romanmvch/romanmvch/blob/main/Portfolio.png?raw=true">
+
 
 <h2 align="center">Yandex.Practicum</h2>
 
