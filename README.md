@@ -7,22 +7,6 @@
 Completed courses "Data Science.Bootcamp" (Yandex.Practicum) and  "Data Science" (BMSTU), studied Python with Stepik.
 
 
-
-###### Data Science skills:
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height=25></a>
-
-<img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" height=25></a>
-<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" height=25></a>
-<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" height=25></a>
-<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" height=25></a>
-<img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" height=25></a>
-<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" height=25></a>
-<img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" height=25></a>
-<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" height=25></a>
-
-<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" height=25></a>
-<h2 align="center">
-
 <img src="https://github.com/romanmvch/romanmvch/blob/main/portf.png?raw=true">
 
 
@@ -30,7 +14,7 @@ Completed courses "Data Science.Bootcamp" (Yandex.Practicum) and  "Data Science"
 
 | №| Название проекта| Описание | Стек | Статус|
 |:-:| :-:|:-:|:-:|:-:|
-| 1 | [Исследование платёжеспособности клиентов банка](https://github.com/romanmvch/Portfolio/tree/main/Credits) | Заказчик — кредитный отдел банка. Нужно разобраться, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок. Входные данные от банка — статистика о платёжеспособности клиентов. Результаты исследования будут учтены при построении модели кредитного скоринга.|<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" height=25></a>|✔️**COMPLITED**|
+| 1 | [Исследование платёжеспособности клиентов банка](https://github.com/romanmvch/Portfolio/tree/main/Credits) | Заказчик — кредитный отдел банка. Нужно разобраться, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок. Входные данные от банка — статистика о платёжеспособности клиентов. Результаты исследования будут учтены при построении модели кредитного скоринга.|<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height=25></a> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" height=25></a>|✔️**COMPLITED**|
 | 2 |[Анализ объявлений недвижимости](https://github.com/romanmvch/Portfolio/tree/main/Real_estate) |Исходый датасет - архив объявлений за несколько лет о продаже квартир в Санкт-Петербурге и соседних населённых пунктах. Требуется выполнить предобработку данных и изучить их, чтобы найти особенности и зависимости, которые существуют на рынке недвижимости. О каждой квартире в базе содержится два типа данных: добавленные пользователем и картографические. Например, к первому типу относятся площадь квартиры, её этаж и количество балконов, ко второму — расстояния до центра города, аэропорта и ближайшего парка. | <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" height=25></a> <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" height=25></a> |✔️**COMPLITED**|
 | 3 | [Рекомендация тарифов сотового оператора](https://github.com/romanmvch/Portfolio/tree/main/Mobile_users_behavior)| Клиентам предлагают два тарифных плана: «Смарт» и «Ультра». Чтобы скорректировать рекламный бюджет, коммерческий департамент хочет понять, какой тариф приносит больше денег. Необходимо сделать предварительный анализ тарифов на небольшой выборке клиентов. В распоряжении данные 500 пользователей: кто они, откуда, каким тарифом пользуются, сколько звонков и сообщений каждый отправил за 2018-й год. Нужно проанализировать поведение клиентов и сделать вывод — какой тариф лучше. |<img src="https://img.shields.io/badge/Sclearn-%230056D2.svg?style=for-the-badge&logo=" height=25>  <img src="https://img.shields.io/badge/Classifier-%23F5792A.svg?style=for-the-badge&logo=" height=25> |✔️**COMPLITED**|
 | 4 | [Cборный проект 1. Анализ рынка видеоигр](https://github.com/romanmvch/Portfolio/tree/main/Videogame_market_analysis) | Из открытых источников доступны исторические данные о продажах игр, оценки пользователей и экспертов, жанры и платформы. Требуется выявить определяющие успешность игры закономерности. Это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании.|<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" height=25></a> <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" height=25></a> |✔️**COMPLITED**|
